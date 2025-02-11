@@ -25,7 +25,8 @@ A browser extension that alerts users when they visit a domain with punycode to 
 5. The extension will appear in your browser.
 
 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For more details on this issue, check the LICENSE file.
 
 🔗 Useful Resources
-What is Punycode?
+[What is Punycode?](https://en.wikipedia.org/wiki/Punycode)
