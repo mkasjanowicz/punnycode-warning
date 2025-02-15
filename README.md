@@ -24,6 +24,11 @@ A browser extension that alerts users when they visit a domain with punycode to 
 4. Click on Load unpacked and select the directory where you cloned this repository.
 5. The extension will appear in your browser.
 
+OR 
+
+Download it from the Chrome Web Store
+[Punycode Warning](https://chromewebstore.google.com/detail/punycode-warning/iokbgmgicompnicikpnkighoenphghfb?authuser=0&hl=pl)
+
 📄 License
 This is free software, and you are welcome to redistribute it under certain conditions.
 For more details on this issue, check the LICENSE file.
